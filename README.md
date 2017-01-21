@@ -12,7 +12,7 @@ A lot of my content is also Creative Commons-licensed; for the most part I use [
 
 ## What I'm doing in GGJ 2017
 
-Just as I did for [GGJ 2016](http://metronomic.tk/2016/), I would like to make music and sfx for as many games as I am able to. All the music I am making for this jam is being posted to this github repo. You can also listen/download directly at http://ggj.metronomic.tk/
+Just as I did for [GGJ 2016](http://metronomic.tk/2016/), I would like to make music and sfx for as many games as I am able to. All the music I am making for this jam is being posted to this github repo. You can also listen/download directly at https://ggj.metronomic.tk/
 
 If you would like to request me to make a work for your project, please [open an issue](https://github.com/plaidfluff/ggj2017-music/issues/new) and tell me the following:
 
@@ -42,7 +42,7 @@ In return I expect the following, in addition to the [Global Game Jam code of co
 * My GGJ username (for adding me to the game's jam page) is [fluffy](http://globalgamejam.org/users/fluffy).
 * Within the game and its supplemental text (README, website, etc.) I'd appreciate being credited as "j. shagam" with a link to at least one of http://metronomic.tk/, http://sockpuppet.us/, or http://beesbuzz.biz/ (but more than one would be even better).
 
-## Beyond GGJ 2017
+## Beyond Global Game Jam
 
 All music published here is available under Creative Commons [BY-NC](http://creativecommons.org/licenses/by-nc/4.0/). For commercially-available games, please get in touch with me to discuss licensing.
 
